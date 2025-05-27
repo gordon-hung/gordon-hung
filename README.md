@@ -1,7 +1,9 @@
 ### 自我介紹
 我是 Gordon Hung，一位來自台灣台中的軟體工程師。我專注於 .NET 技術棧的開發，特別熱衷於研究和實踐現代軟體架構及雲原生技術。作為一個積極的技術探索者，我經常通過建立學習專案來掌握新技術，並樂於分享這些知識。
 
-[![Gordon Hung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gordon-hung)](https://github.com/gordon-hung/github-readme-stats)
+[![Gordon Hung's GitHub stats](https://github-readme-stats.vercel.app/api?username=gordon-hung&show_icons=true&theme=tokyonight)](https://github.com/gordon-hung/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gordon-hung&show_icons=true&theme=tokyonight)](https://github.com/gordon-hung/github-readme-stats)
 
 ### 技術專長
 
